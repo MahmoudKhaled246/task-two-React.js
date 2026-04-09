@@ -1,9 +1,12 @@
 # Second React Task
 
-That is the second Task for me in React Project i learnt alot and gain some knowledge of using Tailwind and im get used to dealing more with React Im Very Happy ❤️❤️🥰🥰
+This is the second task in my React Project. I learned a lot and gained knowledge of using Tailwind, and I'm getting more used to dealing with React. I'm very happy! ❤️❤️🥰🥰
+Libraries Used
 
 Libraries Used
 
 - Tailwind
 - Google Fonts
 - AOS
+
+
